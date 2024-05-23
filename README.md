@@ -1,1 +1,1 @@
-# edge-curse
+# edge-course
